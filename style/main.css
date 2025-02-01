@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 html {
   box-sizing: border-box;
 }
@@ -292,7 +292,7 @@ body {
     font-weight: lighter;
   }
 }
-=======
+
 html {
   box-sizing: border-box;
 }
@@ -584,5 +584,4 @@ body {
     font-size: 1.5rem;
     font-weight: lighter;
   }
-}
->>>>>>> d1ab96ef2e56a906eef783f4153c5a31e0305bb0
+};
